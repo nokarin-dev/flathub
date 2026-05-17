@@ -1024,6 +1024,118 @@
     {
         "type": "archive",
         "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file-3.5.11.tar.gz",
+        "sha256": "b22decdae85b459eac24aeece48f33845c6f16d278a9c63d75c5355345ca236b",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file-3.5.11"
+    },
+    {
+        "type": "inline",
+        "contents": "b22decdae85b459eac24aeece48f33845c6f16d278a9c63d75c5355345ca236b",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file-3.5.11.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_android-1.0.6.tar.gz",
+        "sha256": "58141fcaece2f453a9684509a7275f231ac0e3d6ceb9a5e6de310a7dff9084aa",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_android-1.0.6"
+    },
+    {
+        "type": "inline",
+        "contents": "58141fcaece2f453a9684509a7275f231ac0e3d6ceb9a5e6de310a7dff9084aa",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_android-1.0.6.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_ios-1.0.4.tar.gz",
+        "sha256": "a5acd07ba1f304f807a97acbcc489457e1ad0aadff43c467987dd9eef814098f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_ios-1.0.4"
+    },
+    {
+        "type": "inline",
+        "contents": "a5acd07ba1f304f807a97acbcc489457e1ad0aadff43c467987dd9eef814098f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_ios-1.0.4.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_linux-0.0.5.tar.gz",
+        "sha256": "d189f799eecbb139c97f8bc7d303f9e720954fa4e0fa1b0b7294767e5f2d7550",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_linux-0.0.5"
+    },
+    {
+        "type": "inline",
+        "contents": "d189f799eecbb139c97f8bc7d303f9e720954fa4e0fa1b0b7294767e5f2d7550",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_linux-0.0.5.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_mac-1.0.4.tar.gz",
+        "sha256": "cd293f6750de6438ab2390513c99128ade8c974825d4d8128886d1cda8c64d01",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_mac-1.0.4"
+    },
+    {
+        "type": "inline",
+        "contents": "cd293f6750de6438ab2390513c99128ade8c974825d4d8128886d1cda8c64d01",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_mac-1.0.4.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_platform_interface-1.0.3.tar.gz",
+        "sha256": "101b424ca359632699a7e1213e83d025722ab668b9fd1412338221bf9b0e5757",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_platform_interface-1.0.3"
+    },
+    {
+        "type": "inline",
+        "contents": "101b424ca359632699a7e1213e83d025722ab668b9fd1412338221bf9b0e5757",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_platform_interface-1.0.3.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_web-0.0.4.tar.gz",
+        "sha256": "e3dbc9584856283dcb30aef5720558b90f88036360bd078e494ab80a80130c4f",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_web-0.0.4"
+    },
+    {
+        "type": "inline",
+        "contents": "e3dbc9584856283dcb30aef5720558b90f88036360bd078e494ab80a80130c4f",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_web-0.0.4.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
+        "url": "https://pub.dev/api/archives/open_file_windows-0.0.3.tar.gz",
+        "sha256": "d26c31ddf935a94a1a3aa43a23f4fff8a5ff4eea395fe7a8cb819cf55431c875",
+        "strip-components": 0,
+        "dest": ".pub-cache/hosted/pub.dev/open_file_windows-0.0.3"
+    },
+    {
+        "type": "inline",
+        "contents": "d26c31ddf935a94a1a3aa43a23f4fff8a5ff4eea395fe7a8cb819cf55431c875",
+        "dest": ".pub-cache/hosted-hashes/pub.dev",
+        "dest-filename": "open_file_windows-0.0.3.sha256"
+    },
+    {
+        "type": "archive",
+        "archive-type": "tar-gzip",
         "url": "https://pub.dev/api/archives/package_config-2.2.0.tar.gz",
         "sha256": "f096c55ebb7deb7e384101542bfba8c52696c1b56fca2eb62827989ef2353bbc",
         "strip-components": 0,
